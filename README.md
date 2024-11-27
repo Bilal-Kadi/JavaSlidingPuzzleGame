@@ -24,6 +24,8 @@ Reset: Resets the puzzle to the solved state.
 Programming Language: Java
 GUI Framework: Swing
 
+**Image of the puzzle:**
+
 
 
 
