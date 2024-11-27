@@ -25,5 +25,5 @@ Programming Language: Java
 GUI Framework: Swing
 
 
-![Puzzle's image]([https://drive.google.com/file/d/1xYp2L1kqzhchAuhlisXJ4SUxccPg5iGj/view?usp=drive_link](https://drive.google.com/file/d/1xYp2L1kqzhchAuhlisXJ4SUxccPg5iGj/view?usp=drive_link))
+![Puzzle's image](https://drive.google.com/file/d/1xYp2L1kqzhchAuhlisXJ4SUxccPg5iGj/view?usp=sharing)
 
