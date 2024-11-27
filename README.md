@@ -26,4 +26,4 @@ GUI Framework: Swing
 
 
 
-![Photo of the puzzle](C:\Users\bebob\OneDrive\Desktop\Monaliza puzzle\Pic\3.jpg)
+
