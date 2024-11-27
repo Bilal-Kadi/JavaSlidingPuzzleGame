@@ -26,4 +26,4 @@ GUI Framework: Swing
 
 
 
-![Photo of the project]("C:\Users\bebob\OneDrive\Pictures\Screenshots\Screenshot 2024-11-27 135536.png")
+![Photo of the project](C:\Users\bebob\AppData\Local\Temp\7103fc87-1e38-4399-bdb8-fda6a2238e86_Pic.rar.e86\Pic\3.jpg)
